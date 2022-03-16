@@ -5,9 +5,6 @@
 [![GitHub amrX2K](https://img.shields.io/github/followers/amrX2K?label=follow&style=social)](https://github.com/amrX2K)
 [![Linkedin: amrX2K](https://img.shields.io/badge/Asorour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amrsorour/)](https://www.linkedin.com/in/amrsorour/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=00xamrx2k&left_color=gray&right_color=blue)
-  
-I develop software, build technical communities, create content and love meeting new people!
-
 
 [![00xamrX2K GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrX2K&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/amrX2K/github-readme-stats)
 
