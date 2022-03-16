@@ -2,6 +2,25 @@
 
 <!--
 **amrX2K/amrX2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! I'm Khaled. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![GitHub khaleds-brain](https://img.shields.io/github/followers/amrX2K?label=follow&style=social)](https://github.com/khaleds-brain)
+[![Linkedin: amrX2K](https://img.shields.io/badge/daoudieh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amrsorour/)](https://www.linkedin.com/in/amrsorour/)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=00xkhaled&left_color=gray&right_color=blue)
+  
+I develop software, build technical communities, create content and love meeting new people!
+
+
+[![00xamrX2K GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrX2K&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/amrX2K/github-readme-stats)
+
+
+👇🏻 If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/amrx) ! 
+
+<a href="https://www.buymeacoffee.com/amrx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
+
+
+<!--
+**vermakhushboo/vermakhushboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
