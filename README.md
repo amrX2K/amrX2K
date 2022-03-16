@@ -3,7 +3,7 @@
 ## Hey! I'm Amr. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub amrX2K](https://img.shields.io/github/followers/amrX2K?label=follow&style=social)](https://github.com/amrX2K)
-[![Linkedin: amrX2K](https://img.shields.io/badge/daoudieh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amrsorour/)](https://www.linkedin.com/in/amrsorour/)
+[![Linkedin: amrX2K](https://img.shields.io/badge/Asorour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amrsorour/)](https://www.linkedin.com/in/amrsorour/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=00xamrx2k&left_color=gray&right_color=blue)
   
 I develop software, build technical communities, create content and love meeting new people!
