@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 ## Hey! I'm Amr. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub amrX2K](https://img.shields.io/github/followers/amrX2K?label=follow&style=social)](https://github.com/amrX2K)
@@ -13,9 +12,8 @@ I develop software, build technical communities, create content and love meeting
 [![00xamrX2K GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrX2K&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/amrX2K/github-readme-stats)
 
 
-👇🏻 If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/amrx) ! 
-
-<a href="https://www.buymeacoffee.com/amrx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
+<!--👇🏻 If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/amrx)
+<a href="https://www.buymeacoffee.com/amrx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>-->
 
 
 <!--
